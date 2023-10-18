@@ -1,0 +1,4 @@
+.vscode/
+*.o
+*.exe
+test/sts-2.1.2
