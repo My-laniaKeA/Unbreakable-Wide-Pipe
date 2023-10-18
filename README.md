@@ -69,7 +69,7 @@ Convert pi to binary representation and take its first 4000 bits. Each group of 
 
 The complete report can be found at `outputs/finalAnalysisReport.txt`.
 
-#### Efficiency Test
+### 4. Efficiency Test
 
 OS: WSL2
 
